@@ -50,10 +50,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project: A collection of header and footer designs.
-- Whats the purpose: To explore and present diverse header and footer styles.
-- What are key components: Static and animated headers and footers.
-- What technology used and how it is used: Pure HTML and CSS for design and layout.
+- What is the project: `A collection of header and footer designs.`
+- Whats the purpose: `To explore and present diverse header and footer styles.`
+- What are key components: `Static and animated headers and footers.`
+- What technology used and how it is used: `Pure HTML and CSS for design and layout.`
 
 ### Key Components
 - MultiPage Website
@@ -109,7 +109,6 @@ WD-Seatwork-3
 
 ## Resources
 
-<!-- TODO: Add References -->
 | Title        | Purpose                                                      | Link                  |
 |--------------|--------------------------------------------------------------|-----------------------|
 | CSS Tricks   | To learn about various CSS techniques                           | [css-tricks.com](https://css-tricks.com) |
