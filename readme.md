@@ -18,6 +18,14 @@
 
 ---
 
+## Deployment
+
+View the live project here: [Personal Website v.2 Deployment Link](https://m00minnn.github.io/WD-SEATWORK-3/)
+
+View the wakatime integration here: [Wakatime](https://wakatime.com/@1e323d0b-6dc3-4e06-b617-51340e36f303/projects/exziwpkilj?start=2024-07-22&end=2024-07-28)
+
+---
+
 <br />
 
 <details>
